@@ -240,11 +240,21 @@ body {
 .smalll{
     margin-left: 0rem;
 }
-@media (min-width: 320px) and (max-width: 425px) {
+@media (min-width: 300px) and (max-width: 425px) {
     .smalll {
-            margin-left: 5rem;
+            margin-left: 8rem;
         }
 }
+
+/* .mobb {
+    margin-left: 0rem;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+    .mobb {
+        padding-left: 3rem;
+    }
+} */
 
 /* TEXT */
 
