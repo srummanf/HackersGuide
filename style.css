@@ -237,6 +237,14 @@ body {
     }
 }
 
+.smalll{
+    margin-left: 0rem;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+    .smalll {
+            margin-left: 5rem;
+        }
+}
 
 /* TEXT */
 
