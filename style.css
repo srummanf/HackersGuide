@@ -1,0 +1,298 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+* {
+    font-family: 'Abel', sans-serif;
+}
+
+.Layout_colorBackground__Adyt4 {
+    left: 50%;
+    transform: translateX(-50%);
+    background: radial-gradient(at 71% 77%, var(--color-gradient-1) 0, transparent 21%), radial-gradient(at 36% 47%, var(--color-gradient-3) 0, transparent 50%), radial-gradient(at 54% 29%, var(--color-gradient-3) 0, transparent 28%), radial-gradient(at 45% 51%, var(--color-gradient-1) 0, transparent 53%), radial-gradient(at 73% 44%, var(--color-gradient-2) 0, transparent 54%), radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%), radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    max-height: 800px;
+    height: 80vh;
+    max-width: 1400px;
+    width: 70vw;
+    width: 100%;
+    filter: blur(44px);
+    z-index: -1
+}
+
+.Layout_colorBackgroundBottom__9Yf_q {
+    left: 50%;
+    transform: translateX(-50%) rotate(190deg);
+    background: radial-gradient(at 83% 25%, var(--color-gradient-1) 0, transparent 21%), radial-gradient(at 36% 47%, var(--color-gradient-3) 0, transparent 50%), radial-gradient(at 79% 45%, var(--color-gradient-3) 0, transparent 28%), radial-gradient(at 66% 38%, var(--color-gradient-1) 0, transparent 53%), radial-gradient(at 89% 13%, var(--color-gradient-2) 0, transparent 54%), radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%), radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    height: 600px;
+    max-width: 900px;
+    width: 55vw;
+    width: 100%;
+    filter: blur(44px);
+    z-index: -1
+}
+
+.Layout_colorBackground__Adyt4 {
+    left: 50%;
+    transform: translateX(-50%);
+    background: radial-gradient(at 71% 77%, var(--color-gradient-1) 0, transparent 21%), radial-gradient(at 36% 47%, var(--color-gradient-3) 0, transparent 50%), radial-gradient(at 54% 29%, var(--color-gradient-3) 0, transparent 28%), radial-gradient(at 45% 51%, var(--color-gradient-1) 0, transparent 53%), radial-gradient(at 73% 44%, var(--color-gradient-2) 0, transparent 54%), radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%), radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    max-height: 800px;
+    height: 80vh;
+    max-width: 1400px;
+    width: 70vw;
+    width: 100%;
+    filter: blur(44px);
+    z-index: -1
+}
+
+.Layout_colorBackgroundBottom__9Yf_q {
+    left: 50%;
+    transform: translateX(-50%) rotate(190deg);
+    background: radial-gradient(at 83% 25%, var(--color-gradient-1) 0, transparent 21%), radial-gradient(at 36% 47%, var(--color-gradient-3) 0, transparent 50%), radial-gradient(at 79% 45%, var(--color-gradient-3) 0, transparent 28%), radial-gradient(at 66% 38%, var(--color-gradient-1) 0, transparent 53%), radial-gradient(at 89% 13%, var(--color-gradient-2) 0, transparent 54%), radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%), radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    height: 600px;
+    max-width: 900px;
+    width: 55vw;
+    width: 100%;
+    filter: blur(44px);
+    z-index: -1
+}
+
+.Layout_colorBackground__Adyt4 {
+    left: 50%;
+    transform: translateX(-50%);
+    background: radial-gradient(at 71% 77%, var(--color-gradient-1) 0, transparent 21%), radial-gradient(at 36% 47%, var(--color-gradient-3) 0, transparent 50%), radial-gradient(at 54% 29%, var(--color-gradient-3) 0, transparent 28%), radial-gradient(at 45% 51%, var(--color-gradient-1) 0, transparent 53%), radial-gradient(at 73% 44%, var(--color-gradient-2) 0, transparent 54%), radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%), radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    max-height: 800px;
+    height: 80vh;
+    max-width: 1400px;
+    width: 70vw;
+    width: 100%;
+    filter: blur(44px);
+    z-index: -1
+}
+
+.Layout_colorBackgroundBottom__9Yf_q {
+    left: 50%;
+    transform: translateX(-50%) rotate(190deg);
+    background: radial-gradient(at 83% 25%, var(--color-gradient-1) 0, transparent 21%), radial-gradient(at 36% 47%, var(--color-gradient-3) 0, transparent 50%), radial-gradient(at 79% 45%, var(--color-gradient-3) 0, transparent 28%), radial-gradient(at 66% 38%, var(--color-gradient-1) 0, transparent 53%), radial-gradient(at 89% 13%, var(--color-gradient-2) 0, transparent 54%), radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%), radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    height: 600px;
+    max-width: 900px;
+    width: 55vw;
+    width: 100%;
+    filter: blur(44px);
+    z-index: -1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button,
+
+
+
+
+
+
+
+
+.theme-compiled {
+    --color-primary: #7d7aff;
+    --color-gradient-1: #99851d;
+    --color-gradient-2: #f87141;
+    --color-gradient-3: #e93b4e;
+    --color-gradient-4: #8785ff;
+    --font-primary: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-secondary: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eee;
+    color: #111;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+:root {
+    --marquee-width: 80vw;
+    --marquee-height: 10vh;
+    /* --marquee-elements: 12; */
+    /* defined with JavaScript */
+    --marquee-elements-displayed: 5;
+    --marquee-element-width: calc(var(--marquee-width) / var(--marquee-elements-displayed));
+    --marquee-animation-duration: calc(var(--marquee-elements) * 3s);
+}
+
+.marquee {
+    width: var(--marquee-width);
+    height: var(--marquee-height);
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    color: #eee;
+    overflow: hidden;
+    position: relative;
+}
+
+.marquee:before,
+.marquee:after {
+    position: absolute;
+    top: 0;
+    width: 10rem;
+    height: 100%;
+    content: "";
+    z-index: 1;
+}
+
+.marquee:before {
+    left: 0;
+    background: linear-gradient(to right, #f9f9f9 0%, transparent 0%);
+}
+
+.marquee:after {
+    right: 0;
+    /* background: linear-gradient(to left, #111 0%, transparent 100%); */
+}
+
+.marquee-content {
+    list-style: none;
+    height: 100%;
+    display: flex;
+    animation: scrolling var(--marquee-animation-duration) linear infinite;
+}
+
+/* .marquee-content:hover {
+  animation-play-state: paused;
+} */
+@keyframes scrolling {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-1 * var(--marquee-element-width) * var(--marquee-elements)));
+    }
+}
+
+.marquee-content li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    flex-shrink: 0;
+    width: var(--marquee-element-width);
+    max-height: 100%;
+    font-size: calc(var(--marquee-height)*3/4);
+    /* 5rem; */
+    white-space: nowrap;
+}
+
+.marquee-content li img {
+    width: 100%;
+    /* height: 100%; */
+    border: 2px solid #eee;
+}
+
+@media (max-width: 600px) {
+    html {
+        font-size: 12px;
+    }
+
+    :root {
+        --marquee-width: 100vw;
+        --marquee-height: 16vh;
+        --marquee-elements-displayed: 3;
+    }
+
+    .marquee:before,
+    .marquee:after {
+        width: 5rem;
+    }
+}
+
+
+/* TEXT */
+
+.container_header {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+.svg {
+    display: block;
+    font: 10.5em 'Montserrat';
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1) {
+    stroke: #4D163D;
+    animation-delay: -1;
+}
+
+.text-copy:nth-child(2) {
+    stroke: #840037;
+    animation-delay: -2s;
+}
+
+.text-copy:nth-child(3) {
+    stroke: #BD0034;
+    animation-delay: -3s;
+}
+
+.text-copy:nth-child(4) {
+    stroke: #BD0034;
+    animation-delay: -4s;
+}
+
+.text-copy:nth-child(5) {
+    stroke: #FDB731;
+    animation-delay: -5s;
+}
+
+@keyframes stroke-offset {
+    100% {
+        stroke-dashoffset: -35%;
+    }
+}
+
+/*  */
